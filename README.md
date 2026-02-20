@@ -1,13 +1,13 @@
 # QuickShell GUI Builder
-#This is project made with CODEX
-Готовое простое приложение-конструктор для QuickShell:
+#This is a project made with CODEX
+A ready-made, simple builder app for QuickShell:
 
-- настройка базового профиля (тема, шрифт, масштаб);
-- создание и редактирование нескольких `bar`;
-- подключение и настройка модуля плеера (MPRIS/playerctl/custom);
-- добавление быстрых действий с хоткеями;
-- живой предпросмотр JSON;
-- копирование и скачивание `quickshell.config.json`.
+- Basic profile setup (theme, font, zoom);
+- Creating and editing multiple `bars`;
+- Connecting and configuring the player module (MPRIS/playerctl/custom);
+- Adding quick actions with hotkeys;
+- Live JSON preview;
+- Copying and downloading `quickshell.config.json`.
 
 ## Start
 
