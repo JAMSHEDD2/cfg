@@ -9,16 +9,16 @@
 - живой предпросмотр JSON;
 - копирование и скачивание `quickshell.config.json`.
 
-## Запуск
+## Start
 
 ```bash
 python3 -m http.server 4173
 ```
 
-Открой: `http://localhost:4173`
+Open: `http://localhost:4173`
 
-## Структура
+## Stuctur
 
 - `index.html` — UI
-- `styles.css` — стили
-- `app.js` — логика конструктора
+- `styles.css` — styel
+- `app.js` — logic
